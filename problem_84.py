@@ -9,3 +9,4 @@ def contains_substring(text, substr):
 
 sentence = "Python programming is fun"
 print(f"Contains 'fun': {contains_substring(sentence, 'fun')}")
+
