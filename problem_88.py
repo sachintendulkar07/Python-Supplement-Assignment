@@ -10,3 +10,4 @@ def all_substrings(text):
 
 word = "abc"
 print(f"All substrings: {all_substrings(word)}")
+
